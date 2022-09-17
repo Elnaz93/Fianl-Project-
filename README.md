@@ -1,4 +1,4 @@
-# Fianl-Project-
+# Fianl-Project
 
 Customer Personality Analysis
 
